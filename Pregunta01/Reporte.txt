@@ -1,224 +1,510 @@
 12270502  CUEVA/FUENTES/CINTHIA DELIA                       977325695      
+Vehiculo: O1C-880
+Vehiculo: P7T-999
+Vehiculo: Y5F-449
 
 12443643  LEE/SERRANO/ROSARIO                               994280247      
+Vehiculo: R8H-409
 
 12858682  ZARATE/PEREZ/ALEXANDER                            993183712      
+Vehiculo: T5L-371
 
 13219606  RODRIGUEZ/MORENO/BLANCA OFELIA                    981992831      
+Vehiculo: M2Q-712
+Vehiculo: N1O-921
+Vehiculo: T3B-722
 
 13628871  QUIROGA/HERNANDEZ/SILVANA ZKENIA                  996073621      
+Vehiculo: F3E-797
 
 15029228  VALVERDE/MAEIREIZO/MELVIN JAIR                    982628676      
+Vehiculo: C0P-895
+Vehiculo: J0Q-121
+Vehiculo: N0Z-560
 
 15115705  HERNANDEZ/CORRALES/GUILLERMO                      999700320      
+Vehiculo: N9Q-814
 
 15559308  BRAVO/CORTES/JANET FLOR                           982493678      
+Vehiculo: S3L-803
+Vehiculo: T8F-368
+Vehiculo: W1S-239
+Vehiculo: X6O-905
 
 16136330  YEP/PRECIADO/RICHARD                              996870322      
+Vehiculo: E3U-231
 
 16477908  BACA/CAMACHO/MILAGROS NATALIA                     981924881      
+Vehiculo: I0E-459
+Vehiculo: W7C-957
+Vehiculo: X9D-758
 
 16925690  CABRERA/TORO/FANNY                                990940118      
+Vehiculo: B4I-014
+Vehiculo: F3F-478
+Vehiculo: R7N-113
 
 19568447  VEGA/SORIA/HENRRY                                 979996045      
+Vehiculo: D8R-235
+Vehiculo: O7W-705
 
 19963454  SALAMANCA/CABRERA/NESTOR EVERT                    976223321      
+Vehiculo: D9A-711
+Vehiculo: H8A-390
+Vehiculo: T9D-604
+Vehiculo: X9O-440
 
 21621497  AYALA/CASTILLO/ERICKA OFELIA                      989065262      
+Vehiculo: D6W-048
+Vehiculo: R5I-860
+Vehiculo: W5W-525
+Vehiculo: Z7C-785
 
 24859596  FLORIAN/CUBA/CHRISTIAN                            996273880      
+Vehiculo: A8P-118
+Vehiculo: B8B-326
+Vehiculo: L6D-758
 
 25518120  RONDON/CABRERA/ALEXANDER ADOLFO                   995745487      
+Vehiculo: E1J-798
+Vehiculo: F2C-703
+Vehiculo: U1X-768
 
 26522329  SANCHEZ/DEL_CASTILLO/FIORELLA ROSARIO             992374683      
+Vehiculo: U5W-825
+Vehiculo: U7R-252
+Vehiculo: W7R-114
 
 27185429  SOLIS/CHUNG/ROLANDO                               973027511      
+Vehiculo: S9I-160
+Vehiculo: U3F-754
 
 27268323  LOZADA/IBEROS/HELI BLANCA                         971407883      
+Vehiculo: L6Z-161
 
 27864822  FIGUEROA/MEDINA/MADELEINE                         999829382      
+Vehiculo: R5C-239
+Vehiculo: S3D-133
+Vehiculo: T9U-338
 
 28820944  RIOS/ZAMORA/INES                                  976280687      
+Vehiculo: H2K-127
 
 29833157  HIJAR/LAM/MARTIN                                  997272987      
+Vehiculo: E9W-402
+Vehiculo: I5K-310
+Vehiculo: I9F-484
+Vehiculo: S2N-896
 
 29989682  CAMACHO/PAIRAZAMAN/YDALI LUCERO                   984528345      
+Vehiculo: B1J-773
+Vehiculo: W1V-221
+Vehiculo: W3T-571
 
 30046639  SALAMANCA/VEGA/VIRGINIA MARTHA                    975325937      
+Vehiculo: L8F-459
+Vehiculo: P6I-223
+Vehiculo: S3F-021
 
 30441350  RETAMOSO/SALAMANCA/DELIA MARITZA                  986193663      
+Vehiculo: M9Z-497
+Vehiculo: Q6Q-335
+Vehiculo: T7F-869
+Vehiculo: X0F-315
 
 31107104  MOSCOSO/ARIAS/FIORELLA                            981642318      
+Vehiculo: E0I-722
+Vehiculo: O3T-110
 
 31205866  VIZCARRA/MONTERO/JAIR                             979567163      
+Vehiculo: U6A-456
 
 32090869  SUELDO/ANTEZANO/LUIS JESUS                        977794034      
+Vehiculo: L4B-291
 
 32244565  HENRIQUEZ/PAREDES/PAUL RAFAEL                     997922048      
+Vehiculo: J1E-736
+Vehiculo: K4F-319
+Vehiculo: M8W-853
+Vehiculo: W9L-468
 
 34248357  LEYVA/LANDEO/NANCY SONIA                          997520652      
+Vehiculo: H4R-733
+Vehiculo: R7N-062
+Vehiculo: S5E-231
+Vehiculo: U0T-459
 
 34976629  LOZADA/ARGUEDAS/FELICITA VALENTINA                977041909      
+Vehiculo: I0Y-720
+Vehiculo: J8B-303
 
 35297848  ASTETE/CHANG/GUIDA                                995562110      
+Vehiculo: O7D-970
 
 35671623  EPIQUEN/YEP/GUIDA VICTORIA                        984767837      
+Vehiculo: K0T-350
+Vehiculo: P2Q-870
+Vehiculo: V4E-749
 
 35683701  DIAZ/MOYA/ELIA ANNIE                              974647510      
+Vehiculo: D5W-953
 
 35912665  MARTINEZ/CRUZ/EVERT RONY                          995201948      
+Vehiculo: A6E-125
+Vehiculo: D7L-648
+Vehiculo: O2Z-308
+Vehiculo: O4X-500
 
 36079131  ZAVALETA/VILCA/ERICKA ELEONOR                     976708709      
+Vehiculo: H5S-788
+Vehiculo: I0W-872
+Vehiculo: V4S-057
 
 37080813  FLORIAN/VALDERRAMA/JOSE                           982365577      
+Vehiculo: O9W-355
+Vehiculo: P7E-145
 
 38862473  WONG/MAEIREIZO/BEATRIZ                            997089316      
+Vehiculo: I4B-541
+Vehiculo: K3B-165
+Vehiculo: S6Y-726
 
 39244942  PENA/SUAREZ/GLENDA MARGOT                         999301245      
+Vehiculo: N5Y-450
 
 39544560  LUNA/VARGAS/WALDEMAR                              975380404      
+Vehiculo: N4J-043
+Vehiculo: Y0K-784
 
 42956681  POMAJAMBO/EGUSQUIZA/PAUL                          980954498      
+Vehiculo: A6D-661
+Vehiculo: E0L-862
+Vehiculo: L8Z-555
 
 43454884  ESPINOZA/CHANG/SHIRLEY                            980288321      
+Vehiculo: G0F-080
+Vehiculo: P6Z-734
 
 44188994  VILCARA/YALLICO/MAGALI                            986536608      
+Vehiculo: M0X-657
+Vehiculo: R2L-600
 
 44346371  ALFARO/ALFARO/ERICK BRUNO                         995378466      
+Vehiculo: S4J-282
 
 45043076  VEGA/VILCARA/CARMELA TERESA                       986528258      
+Vehiculo: I1D-713
+Vehiculo: R1T-735
+Vehiculo: S7E-946
 
 47528229  SAAVEDRA/GONZALES/WILMER                          988029799      
+Vehiculo: G8O-154
+Vehiculo: I4H-529
+Vehiculo: T8Y-354
+Vehiculo: U0N-343
 
 47844324  VILCA/LEE/NESTOR HUGO                             975072906      
+Vehiculo: F1H-328
+Vehiculo: X7J-719
 
 48450395  RAMIREZ/ASTETE/KARINA ESTEFANIA                   977189363      
+Vehiculo: G1P-591
+Vehiculo: H6H-085
+Vehiculo: Q5S-871
 
 48528209  ZAVALETA/CORONADO/FELICITA ELOISA                 974864057      
+Vehiculo: T9L-709
 
 48878256  RAFFO/CORONADO/ROLANDO                            979340890      
+Vehiculo: F2F-895
+Vehiculo: G2R-979
+Vehiculo: W6Z-142
+Vehiculo: Z4L-514
 
 49428502  RIVERO/CORTEZ/WILVER ALFONSO                      987405067      
+Vehiculo: C0A-114
+Vehiculo: T0V-569
 
 49927087  INGA/PALOMARES/ERIKA                              998698530      
+Vehiculo: G7B-252
+Vehiculo: M8Q-758
+Vehiculo: X3E-271
 
 50200823  LEYVA/SAM/DIANA DELIA                             988590114      
+Vehiculo: H1E-399
+Vehiculo: Q6C-943
+Vehiculo: R0P-255
 
 50201756  ZEGARRA/PENA/CARMELA                              991359438      
+Vehiculo: K5K-595
+Vehiculo: X8O-807
 
 51395324  TRIGUEROS/PORTUGAL/ARTURO FAUSTO                  994447607      
+Vehiculo: M4Z-108
 
 51929951  CHAVEZ/BERROCAL/JOHAN                             991216992      
+Vehiculo: O8J-848
 
 52002275  CASANOVA/ZEGARRA/MARITZA                          975330266      
+Vehiculo: C0S-417
+Vehiculo: J8N-930
 
 52003695  CARBAJAL/SALAS/MAGDA ZKENIA                       991031827      
+Vehiculo: H8S-849
 
 53374153  SERRANO/IBEROS/FRANCISCO                          975559213      
+Vehiculo: G6I-762
+Vehiculo: R2T-476
+Vehiculo: V7L-069
 
 53853385  SOLIS/NARVAEZ/MARIA MADELEINE                     979972955      
+Vehiculo: O4X-603
+Vehiculo: O5L-856
+Vehiculo: R6P-267
+Vehiculo: T9X-217
 
 54141214  DURAND/MIRANDA/MIGUEL JUAN                        986933560      
+Vehiculo: G2I-709
+Vehiculo: J7Y-327
+Vehiculo: Y9G-536
 
 54447051  AVILA/DEL_CASTILLO/ANNIE                          976989134      
+Vehiculo: D5W-773
+Vehiculo: G3Y-654
+Vehiculo: U5L-205
 
 54665716  GONZALES/GAMARRA/GIOVANA KARINA                   989711739      
+Vehiculo: D2V-055
 
 58992942  NARVAEZ/CASTILLO/JESUS RAFAEL                     991021805      
+Vehiculo: H8M-598
+Vehiculo: Q6B-243
+Vehiculo: V7O-315
 
 60335381  DIAZ/TANG/ENRIQUE                                 993697955      
+Vehiculo: B3U-845
+Vehiculo: E6T-667
 
 60784914  RUIZ/ZEVALLOS/WALTER RONY                         999858010      
+Vehiculo: A8J-929
+Vehiculo: C6G-842
+Vehiculo: C6Q-548
+Vehiculo: P4Y-758
 
 63291514  LAU/ZAVALETA/YDALI ELIA                           999294804      
+Vehiculo: L3W-411
+Vehiculo: Z1A-459
 
 63736112  ZAMORA/ZAVALETA/RONAL MANUEL                      989320773      
+Vehiculo: K0D-676
+Vehiculo: T9A-930
 
 64178096  VIZCARRA/CARBAJAL/IVAN FAUSTO                     988194544      
+Vehiculo: B7V-643
+Vehiculo: G3B-505
+Vehiculo: I0X-469
 
 64532449  INFANTES/MERCADO/LUIS WALDEMAR                    972768580      
+Vehiculo: J0V-437
+Vehiculo: K8R-348
+Vehiculo: V4I-691
+Vehiculo: X3Z-285
 
 66849703  MERCADO/CORONEL/ELIA                              991784560      
+Vehiculo: B4N-777
+Vehiculo: J2F-853
 
 67185679  FLORENCIO/CORONADO/ALONSO                         992495414      
+Vehiculo: F1F-571
+Vehiculo: I2P-193
+Vehiculo: S7F-983
 
 68303148  PATINO/BOLANOS/DELICIA VIRGINIA                   982064714      
+Vehiculo: H1W-140
 
 68310808  CANO/POLO/MILAGROS ISABEL                         976640346      
+Vehiculo: I3A-223
+Vehiculo: K2N-341
+Vehiculo: W8F-397
+Vehiculo: X6M-077
 
 69252518  GORDILLO/SANCHEZ/RONALD JUVENAL                   982106033      
+Vehiculo: P7I-760
+Vehiculo: Y0Y-415
 
 69494747  MENDOZA/ROMERO/VIRGINIA YDALI                     997718422      
+Vehiculo: J8D-125
 
 70414420  AVILA/REYES/TATIANA                               983014906      
+Vehiculo: A7Y-514
+Vehiculo: U5T-348
+Vehiculo: V9J-051
 
 71578206  ARROYO/TOMASICHE/NATALIA                          978801883      
+Vehiculo: G7Z-721
+Vehiculo: L4H-670
+Vehiculo: Y9F-491
 
 71832810  SUELDO/SEDANO/ADRIA                               992023606      
+Vehiculo: Q3M-512
+Vehiculo: T1K-210
+Vehiculo: W1C-444
 
 73357516  TRIGUEROS/JUGO/LUZ                                989411713      
+Vehiculo: E6R-293
+Vehiculo: G0B-604
+Vehiculo: J2K-636
+Vehiculo: P1T-781
 
 73567806  ARCA/SANCHEZ/MAGALI BEATRIZ                       972808569      
+Vehiculo: A7Y-833
+Vehiculo: E2D-493
+Vehiculo: Q9D-870
+Vehiculo: W9Z-281
 
 73818744  FUENTES/GAMARRA/HUGO                              989530753      
+Vehiculo: U5N-536
 
 73972114  AVILA/MARTEL/JAIME MANUEL                         977290098      
+Vehiculo: A2F-518
+Vehiculo: D8H-157
+Vehiculo: J2M-606
 
 74325123  TANG/MOSCOSO/JOHANA                               982064668      
+Vehiculo: B3H-006
+Vehiculo: C2V-710
+Vehiculo: H0E-855
+Vehiculo: V9F-655
 
 75348522  LOZADA/FORZANI/DELIA                              980522965      
+Vehiculo: E1L-705
+Vehiculo: P5B-640
+Vehiculo: X0D-655
 
 75945248  MEJIA/RODRIGUEZ/INES VALENTINA                    982951481      
+Vehiculo: K6X-977
 
 77367073  JAUREGUI/DEL_CASTILLO/VICTOR RICARDO              999644412      
+Vehiculo: C2S-070
+Vehiculo: H9A-097
+Vehiculo: N7K-403
+Vehiculo: W4W-684
 
 77763722  FARFAN/SALAZAR/MARGOT                             981245337      
+Vehiculo: A1Q-612
+Vehiculo: D1M-667
+Vehiculo: Q4P-612
+Vehiculo: W2L-827
 
 79641328  TOKESHI/GUEVARA/JAIME                             999895711      
+Vehiculo: B4R-105
+Vehiculo: L0L-653
+Vehiculo: X8Q-687
 
 79672079  CONTRERAS/CHANG/JOHANA CINTHIA                    974904348      
+Vehiculo: O3H-954
+Vehiculo: R7U-941
+Vehiculo: Y3Q-331
 
 79766395  FUENTES/ESCALANTE/PATRICIA ELIZABETH              984879474      
+Vehiculo: H7P-047
+Vehiculo: N6D-256
+Vehiculo: T3R-184
 
 80310768  MINAYA/BERROCAL/HELI                              977759788      
+Vehiculo: M1E-751
+Vehiculo: N5J-515
+Vehiculo: O2F-523
 
 80457845  NORABUENA/MOYA/HECTOR                             996461775      
+Vehiculo: M7F-612
+Vehiculo: W0C-131
+Vehiculo: Z5G-762
 
 81485316  JUSTINO/MARTINEZ/ENRIQUE                          988935410      
+Vehiculo: E1N-544
+Vehiculo: F1O-596
+Vehiculo: J5T-691
 
 81528434  EPIQUEN/AVILA/ENRIQUE                             998807065      
+Vehiculo: B3U-020
+Vehiculo: D6F-465
 
 81799482  CERNA/CERNA/CINTHIA                               993655221      
+Vehiculo: E3U-768
+Vehiculo: V7P-711
 
 82031355  EGUSQUIZA/BERROCAL/DORIS NANCY                    981941916      
+Vehiculo: H6X-124
+Vehiculo: J0J-790
+Vehiculo: Z5D-724
 
 82870470  SEDANO/RETAMOSO/ELIA YOLANDA                      978258726      
+Vehiculo: C4O-436
+Vehiculo: K0H-387
 
 84186239  RIVERO/CORONADO/HECTOR ALONSO                     999866685      
+Vehiculo: T6W-978
+Vehiculo: W9Y-717
 
 85501710  VIZCARDO/SINCHE/MARIBEL                           999687803      
+Vehiculo: N2C-590
+Vehiculo: Z4K-431
 
 86429854  MOSCOSO/LAURA/JANET VALENTINA                     995110557      
+Vehiculo: K1F-766
+Vehiculo: M5U-987
 
 86718074  ESCALANTE/ROJAS/INES ADRIA                        991057236      
+Vehiculo: L4O-783
+Vehiculo: Q6I-941
 
 87282766  SUAREZ/CHANG/GLORIA                               993562241      
+Vehiculo: S1D-093
 
 87495937  MORALES/PASQUEL/KARIN MARIBEL                     974326410      
+Vehiculo: C5G-743
+Vehiculo: L2H-207
+Vehiculo: M5G-669
+Vehiculo: Z8C-558
 
 88167677  PRADO/VERA/JUAN                                   986820647      
+Vehiculo: B4C-100
+Vehiculo: O0C-616
+Vehiculo: V7U-622
+Vehiculo: Y4Y-028
 
 88854166  PINTO/ROJAS/JUVENAL FRANCISCO                     972680462      
+Vehiculo: H3E-885
+Vehiculo: L3N-150
+Vehiculo: O0K-148
 
 89314225  RIOS/DURAND/CARLOS EDILBERTO                      972378938      
+Vehiculo: C3A-423
 
 89941095  ARCA/LARRIEGA/LUCERO YLIANA                       976591986      
+Vehiculo: P6N-119
+Vehiculo: P6T-244
+Vehiculo: R8O-904
 
 90467829  IPARRAGUIRRE/PEREZ/NICOLAS                        982671098      
+Vehiculo: C9H-661
+Vehiculo: H1R-953
+Vehiculo: K4H-445
+Vehiculo: X8U-894
 
 96693273  VALDERRAMA/BERROCAL/EVERT                         999110102      
+Vehiculo: A6K-820
+Vehiculo: B9X-420
+Vehiculo: C0G-556
+Vehiculo: F3R-138
 
 97849227  PRADO/ESPINOZA/MILAGROS                           996306488      
+Vehiculo: I0K-077
 
 99950484  CORTES/CORTEZ/RAUL ALEX                           991966677      
+Vehiculo: L8A-167
+Vehiculo: X0R-946
+Vehiculo: Y6I-680
+Vehiculo: Y9W-731
 

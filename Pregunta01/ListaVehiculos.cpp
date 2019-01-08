@@ -84,3 +84,14 @@ void ListaVehiculos::imprimirVehiculos(std::ofstream& out) {
     }
 }
 
+void ListaVehiculos::operator=(const ListaVehiculos& vehiculos) {
+    NodoV* nodoRec = vehiculos.head;
+    while(nodoRec!=NULL){
+        // INSERTAR CADA VEHICULO EN NUEVA LISTA DE VEHICULOS
+        this->insertar(nodoRec->vehiculo);
+        
+        nodoRec = nodoRec->stg;
+    }
+}
+
+

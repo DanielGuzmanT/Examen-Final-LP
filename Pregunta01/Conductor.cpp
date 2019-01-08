@@ -84,7 +84,10 @@ void Conductor::operator=(const Conductor& conductor) {
     this->SetDni(conductor.dni);
     this->SetNombre(conductor.nombre);
     this->SetTelefono(conductor.telefono);
+    
     // este = se utiliza al inicio de la lectura, no es necesario copiar la lista de vehiculos
+    // SI QUE ERA NECESARIO COPIAR LA LISTA DE VEHICULOS
+    this->vehiculos = conductor.vehiculos;
 }
 
 

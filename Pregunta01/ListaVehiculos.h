@@ -24,7 +24,8 @@ public:
     void leerVehiculos(std::ifstream& in);
     void imprimirVehiculos(std::ofstream& out);
     void eliminar();
-
+    void operator=(const ListaVehiculos& vehiculos);
+    
 private:
     void insertar(Vehiculo& vehiculo);
     NodoV* head;
