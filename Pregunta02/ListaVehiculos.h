@@ -25,6 +25,8 @@ public:
     void imprimirVehiculos(std::ofstream& out);
     void eliminar();
     void insertarInfraccion(const char* placa, int infraccion);
+    void operator=(const ListaVehiculos& vehiculos);
+
 private:
     void insertar(Vehiculo& vehiculo);
     NodoV* buscarNodoVehiculoPorPlaca(const char* placa);

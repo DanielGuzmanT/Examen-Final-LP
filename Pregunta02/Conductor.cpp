@@ -85,6 +85,8 @@ void Conductor::operator=(const Conductor& conductor) {
     this->SetNombre(conductor.nombre);
     this->SetTelefono(conductor.telefono);
     // este = se utiliza al inicio de la lectura, no es necesario copiar la lista de vehiculos
+    // SI QUE ERA NECESARIO
+    this->vehiculos = conductor.vehiculos;
 }
 
 void Conductor::insertarInfraccion(const char* placa, int infraccion) {
