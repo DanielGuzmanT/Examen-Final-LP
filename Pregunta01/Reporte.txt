@@ -1,0 +1,224 @@
+12270502  CUEVA/FUENTES/CINTHIA DELIA                       977325695      
+
+12443643  LEE/SERRANO/ROSARIO                               994280247      
+
+12858682  ZARATE/PEREZ/ALEXANDER                            993183712      
+
+13219606  RODRIGUEZ/MORENO/BLANCA OFELIA                    981992831      
+
+13628871  QUIROGA/HERNANDEZ/SILVANA ZKENIA                  996073621      
+
+15029228  VALVERDE/MAEIREIZO/MELVIN JAIR                    982628676      
+
+15115705  HERNANDEZ/CORRALES/GUILLERMO                      999700320      
+
+15559308  BRAVO/CORTES/JANET FLOR                           982493678      
+
+16136330  YEP/PRECIADO/RICHARD                              996870322      
+
+16477908  BACA/CAMACHO/MILAGROS NATALIA                     981924881      
+
+16925690  CABRERA/TORO/FANNY                                990940118      
+
+19568447  VEGA/SORIA/HENRRY                                 979996045      
+
+19963454  SALAMANCA/CABRERA/NESTOR EVERT                    976223321      
+
+21621497  AYALA/CASTILLO/ERICKA OFELIA                      989065262      
+
+24859596  FLORIAN/CUBA/CHRISTIAN                            996273880      
+
+25518120  RONDON/CABRERA/ALEXANDER ADOLFO                   995745487      
+
+26522329  SANCHEZ/DEL_CASTILLO/FIORELLA ROSARIO             992374683      
+
+27185429  SOLIS/CHUNG/ROLANDO                               973027511      
+
+27268323  LOZADA/IBEROS/HELI BLANCA                         971407883      
+
+27864822  FIGUEROA/MEDINA/MADELEINE                         999829382      
+
+28820944  RIOS/ZAMORA/INES                                  976280687      
+
+29833157  HIJAR/LAM/MARTIN                                  997272987      
+
+29989682  CAMACHO/PAIRAZAMAN/YDALI LUCERO                   984528345      
+
+30046639  SALAMANCA/VEGA/VIRGINIA MARTHA                    975325937      
+
+30441350  RETAMOSO/SALAMANCA/DELIA MARITZA                  986193663      
+
+31107104  MOSCOSO/ARIAS/FIORELLA                            981642318      
+
+31205866  VIZCARRA/MONTERO/JAIR                             979567163      
+
+32090869  SUELDO/ANTEZANO/LUIS JESUS                        977794034      
+
+32244565  HENRIQUEZ/PAREDES/PAUL RAFAEL                     997922048      
+
+34248357  LEYVA/LANDEO/NANCY SONIA                          997520652      
+
+34976629  LOZADA/ARGUEDAS/FELICITA VALENTINA                977041909      
+
+35297848  ASTETE/CHANG/GUIDA                                995562110      
+
+35671623  EPIQUEN/YEP/GUIDA VICTORIA                        984767837      
+
+35683701  DIAZ/MOYA/ELIA ANNIE                              974647510      
+
+35912665  MARTINEZ/CRUZ/EVERT RONY                          995201948      
+
+36079131  ZAVALETA/VILCA/ERICKA ELEONOR                     976708709      
+
+37080813  FLORIAN/VALDERRAMA/JOSE                           982365577      
+
+38862473  WONG/MAEIREIZO/BEATRIZ                            997089316      
+
+39244942  PENA/SUAREZ/GLENDA MARGOT                         999301245      
+
+39544560  LUNA/VARGAS/WALDEMAR                              975380404      
+
+42956681  POMAJAMBO/EGUSQUIZA/PAUL                          980954498      
+
+43454884  ESPINOZA/CHANG/SHIRLEY                            980288321      
+
+44188994  VILCARA/YALLICO/MAGALI                            986536608      
+
+44346371  ALFARO/ALFARO/ERICK BRUNO                         995378466      
+
+45043076  VEGA/VILCARA/CARMELA TERESA                       986528258      
+
+47528229  SAAVEDRA/GONZALES/WILMER                          988029799      
+
+47844324  VILCA/LEE/NESTOR HUGO                             975072906      
+
+48450395  RAMIREZ/ASTETE/KARINA ESTEFANIA                   977189363      
+
+48528209  ZAVALETA/CORONADO/FELICITA ELOISA                 974864057      
+
+48878256  RAFFO/CORONADO/ROLANDO                            979340890      
+
+49428502  RIVERO/CORTEZ/WILVER ALFONSO                      987405067      
+
+49927087  INGA/PALOMARES/ERIKA                              998698530      
+
+50200823  LEYVA/SAM/DIANA DELIA                             988590114      
+
+50201756  ZEGARRA/PENA/CARMELA                              991359438      
+
+51395324  TRIGUEROS/PORTUGAL/ARTURO FAUSTO                  994447607      
+
+51929951  CHAVEZ/BERROCAL/JOHAN                             991216992      
+
+52002275  CASANOVA/ZEGARRA/MARITZA                          975330266      
+
+52003695  CARBAJAL/SALAS/MAGDA ZKENIA                       991031827      
+
+53374153  SERRANO/IBEROS/FRANCISCO                          975559213      
+
+53853385  SOLIS/NARVAEZ/MARIA MADELEINE                     979972955      
+
+54141214  DURAND/MIRANDA/MIGUEL JUAN                        986933560      
+
+54447051  AVILA/DEL_CASTILLO/ANNIE                          976989134      
+
+54665716  GONZALES/GAMARRA/GIOVANA KARINA                   989711739      
+
+58992942  NARVAEZ/CASTILLO/JESUS RAFAEL                     991021805      
+
+60335381  DIAZ/TANG/ENRIQUE                                 993697955      
+
+60784914  RUIZ/ZEVALLOS/WALTER RONY                         999858010      
+
+63291514  LAU/ZAVALETA/YDALI ELIA                           999294804      
+
+63736112  ZAMORA/ZAVALETA/RONAL MANUEL                      989320773      
+
+64178096  VIZCARRA/CARBAJAL/IVAN FAUSTO                     988194544      
+
+64532449  INFANTES/MERCADO/LUIS WALDEMAR                    972768580      
+
+66849703  MERCADO/CORONEL/ELIA                              991784560      
+
+67185679  FLORENCIO/CORONADO/ALONSO                         992495414      
+
+68303148  PATINO/BOLANOS/DELICIA VIRGINIA                   982064714      
+
+68310808  CANO/POLO/MILAGROS ISABEL                         976640346      
+
+69252518  GORDILLO/SANCHEZ/RONALD JUVENAL                   982106033      
+
+69494747  MENDOZA/ROMERO/VIRGINIA YDALI                     997718422      
+
+70414420  AVILA/REYES/TATIANA                               983014906      
+
+71578206  ARROYO/TOMASICHE/NATALIA                          978801883      
+
+71832810  SUELDO/SEDANO/ADRIA                               992023606      
+
+73357516  TRIGUEROS/JUGO/LUZ                                989411713      
+
+73567806  ARCA/SANCHEZ/MAGALI BEATRIZ                       972808569      
+
+73818744  FUENTES/GAMARRA/HUGO                              989530753      
+
+73972114  AVILA/MARTEL/JAIME MANUEL                         977290098      
+
+74325123  TANG/MOSCOSO/JOHANA                               982064668      
+
+75348522  LOZADA/FORZANI/DELIA                              980522965      
+
+75945248  MEJIA/RODRIGUEZ/INES VALENTINA                    982951481      
+
+77367073  JAUREGUI/DEL_CASTILLO/VICTOR RICARDO              999644412      
+
+77763722  FARFAN/SALAZAR/MARGOT                             981245337      
+
+79641328  TOKESHI/GUEVARA/JAIME                             999895711      
+
+79672079  CONTRERAS/CHANG/JOHANA CINTHIA                    974904348      
+
+79766395  FUENTES/ESCALANTE/PATRICIA ELIZABETH              984879474      
+
+80310768  MINAYA/BERROCAL/HELI                              977759788      
+
+80457845  NORABUENA/MOYA/HECTOR                             996461775      
+
+81485316  JUSTINO/MARTINEZ/ENRIQUE                          988935410      
+
+81528434  EPIQUEN/AVILA/ENRIQUE                             998807065      
+
+81799482  CERNA/CERNA/CINTHIA                               993655221      
+
+82031355  EGUSQUIZA/BERROCAL/DORIS NANCY                    981941916      
+
+82870470  SEDANO/RETAMOSO/ELIA YOLANDA                      978258726      
+
+84186239  RIVERO/CORONADO/HECTOR ALONSO                     999866685      
+
+85501710  VIZCARDO/SINCHE/MARIBEL                           999687803      
+
+86429854  MOSCOSO/LAURA/JANET VALENTINA                     995110557      
+
+86718074  ESCALANTE/ROJAS/INES ADRIA                        991057236      
+
+87282766  SUAREZ/CHANG/GLORIA                               993562241      
+
+87495937  MORALES/PASQUEL/KARIN MARIBEL                     974326410      
+
+88167677  PRADO/VERA/JUAN                                   986820647      
+
+88854166  PINTO/ROJAS/JUVENAL FRANCISCO                     972680462      
+
+89314225  RIOS/DURAND/CARLOS EDILBERTO                      972378938      
+
+89941095  ARCA/LARRIEGA/LUCERO YLIANA                       976591986      
+
+90467829  IPARRAGUIRRE/PEREZ/NICOLAS                        982671098      
+
+96693273  VALDERRAMA/BERROCAL/EVERT                         999110102      
+
+97849227  PRADO/ESPINOZA/MILAGROS                           996306488      
+
+99950484  CORTES/CORTEZ/RAUL ALEX                           991966677      
+
